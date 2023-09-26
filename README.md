@@ -7,7 +7,7 @@
 - <b>Active Directory</b>
 - [Configuring On-premises Active Directory within Azure VMs](https://github.com/NoahNohan/Active-Directory-Configuration)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/NoahNohan/osTicket/blob/main/README.md) 
+  - [osTicket: Prerequisites and Installation](https://github.com/NoahNohan/osticket-prereqs/blob/main/README.md) 
   - [osTicket: Lifecycle Resolution ](https://github.com/NoahNohan/osTicket-Lifecycle-Resolution)
 - <b>Wireshark</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NoahNohan/Azure-Computation-and-Networking-)
