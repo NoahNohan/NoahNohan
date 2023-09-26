@@ -1,4 +1,4 @@
-<h1>Hello, I'm Noah, Here's my <a href="https://linkedin.com/in/noahhenry">IT accomplishments!</a> </h1>
+<h1>Hello, I'm Noah. Here's my <a href="https://linkedin.com/in/noahhenry">IT accomplishments!</a> </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
