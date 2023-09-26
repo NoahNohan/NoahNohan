@@ -10,7 +10,7 @@
   - [osTicket: Prerequisites and Installation](https://github.com/NoahNohan/osticket-prereqs/blob/main/README.md) 
   - [osTicket: Lifecycle Resolution ](https://github.com/NoahNohan/osTicket-Lifecycle )
 - <b>Wireshark</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NoahNohan/Azure-Computation-and-Networking-)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/NoahNohan/Azure-NSGs-and-Networking)
 - <b>Virtual Private Networks (VPNs)</b>
   - [VPN Configuration](https://github.com/NoahNohan/VPN-Configuration)
 <h2>🤳Connect with me:</h2>
