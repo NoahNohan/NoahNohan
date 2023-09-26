@@ -1,4 +1,4 @@
-<h1>Hi, I'm Noah, an <a href="https://linkedin.com/in/noahhenry">IT Professional</a>☺</h1>
+<h1>Hello, I'm Noah, Here's my <a href="https://linkedin.com/in/noahhenry">IT accomplishments!</a> </h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -13,7 +13,5 @@
 <h2>🤳Connect with me:</h2>
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Josh | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 
-[facebook]: https://www.facebook.com/ImNohan
 [linkedin]: https://linkedin.com/in/noahhenry
