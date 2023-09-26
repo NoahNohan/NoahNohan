@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
 - [Create a virtual machine (VM) in Mircosoft Azure](https://github.com/NoahNohan/Creating-Azure-VM)
 - <b>Active Directory</b>
-- [Configuring On-premises Active Directory within Azure VMs](https://github.com/NoahNohan/Active-Directory-Configuration-)
+- [Configuring On-premises Active Directory within Azure VMs](https://github.com/NoahNohan/Active-Directory-Configuration)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/NoahNohan/osTicket/blob/main/README.md) 
   - [osTicket: Lifecycle Resolution ](https://github.com/NoahNohan/osTicket-Lifecycle-Resolution)
